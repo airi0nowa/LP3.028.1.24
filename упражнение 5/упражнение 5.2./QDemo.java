@@ -1,4 +1,4 @@
-// Демонстрация использования класса Queue.
+// Демонстрация использования класса Queue.v
 class QDemo {
     public static void main(String[] args) {
         Queue bigQ = new Queue(100);
